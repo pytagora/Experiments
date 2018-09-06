@@ -1,2 +1,0 @@
-﻿  Serialization.cpp
-LINK : fatal error LNK1104: cannot open file 'libboost_serialization-vc140-mt-x32-1_68.lib'

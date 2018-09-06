@@ -11,9 +11,10 @@
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Rr]elease/
+**/[Dd]ebug/
+**/[Rr]elease/
 x64/
+*.tlog/
 *_i.c
 *_p.c
 *.ilk
@@ -26,6 +27,7 @@ x64/
 *.rsp
 *.sbr
 *.tlb
+*.idb
 *.tli
 *.tlh
 *.tmp
@@ -36,3 +38,4 @@ x64/
 
 # Others
 *.db
+*.VC.db
